@@ -2,7 +2,7 @@
 	<body>
 		<h1>Game Insaniquarium</h1>
 		
-		<img src="cover.JPG" width="">
+		<img src="img/cover.JPG" width="">
 
 		<h2>Latar Belakang</h2>
 
@@ -19,7 +19,7 @@
 			Selain hewan-hewan tersebut, terdapat hewan pengganggu yang berwujud alien.
 			Di dalam permainan ini terdapat 4 mode permainan yang disediakan, yaitu Adventure Mode, Time Trial Mode, Challenge Mode, dan Virtual Tank.
 	
-			<p><img src="menu.jpg"></p>
+			<p><img src="img/menu.jpg"></p>
 			
 			<h4>Adventure Mode</h4>
 			Pada mode ini kita harus memberikan makanan kepada ikan-ikan yang kita pelihara dan ikan tersebut akan menghasilkan koin-koin yang harus kita ambil.
@@ -42,7 +42,7 @@
 		</p>
 		
 		<h2>Review</h2>
-		<p><img src="foto2.jpg" width="50%"></p>
+		<p><img src="img/foto2.jpg" width="50%"></p>
 		<p>
 			<h4>Design</h4>
 				Latar tempat yang diberikan menarik karena benar-benar terlihat seperti di aquarium. Karakter-karakter yang dibuat juga menyerupai wujud aslinya.
