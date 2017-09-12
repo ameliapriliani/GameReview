@@ -2,6 +2,8 @@
 	<body>
 		<h1>Game Insaniquarium</h1>
 		
+		<p><h5>Author: Amelia Apriliani</h5><p>
+		
 		<img src="img/cover.jpg" height="75%">
 
 		<p>Tanggal rilis awal: 2 Mei 2002</p>
