@@ -2,7 +2,7 @@
 	<body>
 		<h1>Game Insaniquarium</h1>
 		
-		<img src="img/cover.JPG" width="">
+		<img src="img/cover.jpg" width="">
 
 		<h2>Latar Belakang</h2>
 
