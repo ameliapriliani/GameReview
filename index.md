@@ -1,5 +1,4 @@
 <html>
-	<body>
 		<h1>Game Insaniquarium</h1>
 		
 		<p><h5>Author: Amelia Apriliani</h5><p>
@@ -86,5 +85,4 @@
 			Bisa melatih anak-anak untuk memelihara hewan seperti ikan.
 			
 		</p>
-	</body>
 <html>
