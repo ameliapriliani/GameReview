@@ -4,7 +4,7 @@
 		
 		<img src="cover.JPG" width="">
 
-		<h2>*Latar Belakang*</h2>
+		<h2>Latar Belakang</h2>
 
 		<p>Tanggal rilis awal: 2 Mei 2002</p>
 		<p>Perancang: George Fan</p>
@@ -41,7 +41,7 @@
 			Koin yang digunakan untuk memberikan makanannya adalah menggunakan shells.
 		</p>
 		
-		<h2>*Review*</h2>
+		<h2>Review</h2>
 		<p><img src="foto2.jpg" width="50%"></p>
 		<p>
 			<h4>Design</h4>
